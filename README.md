@@ -2,7 +2,7 @@
 - 👀 I’m interested in Information & Cyber Security, AI/ML, Investing and Selfhosting.
 - 🌱 I’m currently learning web development with Python & Django. 
 - 💞️ I’m looking to collaborate on Cyber Security and AI/ML based product development.
-- 📫 Reach me at kristo.kapten@gmail.com
+- 📫 Reach me at kristo.kapten(at)gmail.com
 - ⚡ Fun fact: CISO over 5 years.
 
 <!---
